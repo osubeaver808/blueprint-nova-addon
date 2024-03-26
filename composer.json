@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "illuminate/pipeline": "^10.0",
+        "illuminate/pipeline": "^11.0",
         "illuminate/support": "^11.0",
         "laravel-shift/blueprint": "^2.0"
     },
